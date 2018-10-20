@@ -1,0 +1,26 @@
+body {
+	background-color: #ff9999;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-family: "Courier New", Courier, monospace;
+}
+
+h6 {
+	text-align: center;
+	color: white;
+	font-family: "Courier New", Courier, monospace;
+}
+li {
+	color: white;
+	font-family: "Courier New", Courier, monospace;
+}
+p {
+	color: white;
+	font-family: "Courier New", Courier, monospace;
+}
+ul.square {
+	list-style-type: square;
+}
